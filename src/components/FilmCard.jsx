@@ -1,6 +1,6 @@
 import React from 'react';
 
-const FilmCard = ({ film, description }) => {
+const FilmCard = ({ film }) => {
 	return (
 		<article className="col-8">
 			<div className="card my-2 shadow">
